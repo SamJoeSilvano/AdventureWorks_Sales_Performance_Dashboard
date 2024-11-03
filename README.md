@@ -6,7 +6,8 @@ This Power BI dashboard was developed to provide a comprehensive view of **Adven
 
 ## Dashboard
 ### 1. **Executive Dashboard**
-![Exec Dashboard](Exec Dashboard.png)
+![Exec Dashboard](https://github.com/user-attachments/assets/f697333c-bde7-4c95-9dac-ef88b52fb91f)
+
 
 ### 2. **Continent Map View of Sales**
 
