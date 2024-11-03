@@ -8,8 +8,18 @@ This Power BI dashboard was developed to provide a comprehensive view of **Adven
 ### 1. **Executive Dashboard**
 ![Exec Dashboard](https://github.com/user-attachments/assets/f697333c-bde7-4c95-9dac-ef88b52fb91f)
 
-
 ### 2. **Continent Map View of Sales**
+![Map_View_Continents](https://github.com/user-attachments/assets/0dd57548-2e2b-4df6-b1cd-c5f5b67ead8f)
+
+### 3. **Country Map View of Sales**
+![Map_View_Country](https://github.com/user-attachments/assets/2a311a93-0054-4c3e-862b-c33ef135ae46)
+
+### 4. **Customer Dashboard**
+![Customer Detail](https://github.com/user-attachments/assets/566c4c6e-e7eb-4e10-ae40-9f63af523b99)
+
+### 5. **Product Dashboard**
+![Product_Detail](https://github.com/user-attachments/assets/f7c98b88-5c53-44db-b4fe-07a6a8da584b)
+
 
 ## Features
 
