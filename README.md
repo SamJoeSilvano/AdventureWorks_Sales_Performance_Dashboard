@@ -4,6 +4,12 @@
 
 This Power BI dashboard was developed to provide a comprehensive view of **AdventureWorks** sales performance from **2020 to 2022**. It offers insights into the company's key metrics such as **Revenue**, **Profit**, **Orders**, and **Return Rate**, empowering users with actionable data to drive business decisions. The interactive design allows users to drill down into specific data points, gaining a deeper understanding of customer behavior, regional performance, and product popularity.
 
+## Dashboard
+### 1. **Executive Dashboard**
+![Exec Dashboard](Exec Dashboard.png)
+
+### 2. **Continent Map View of Sales**
+
 ## Features
 
 ### 1. **Sales Metrics Overview**
@@ -72,6 +78,7 @@ The dashboard includes the following visual elements to enhance data exploration
 - **Filters**: The dashboard provides interactive filters for year and product type, giving users flexibility in how they analyze the data.
 
 - **Hover Insights**: Hovering over visuals shows detailed tooltips with additional data points, offering quick information without overwhelming the view.
+
 
 ## Technology Stack
 
