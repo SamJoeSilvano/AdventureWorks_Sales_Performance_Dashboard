@@ -134,6 +134,3 @@ This dashboard serves several critical purposes for **AdventureWorks**:
 The AdventureWorks Sales Performance Dashboard is an essential tool for gaining actionable insights into the company’s sales data. It equips decision-makers with the power to monitor business health, spot trends, and make informed decisions based on real-time data.
 
 ---
-
-**Created by: [Sam Joe Silvano P]**  
-Data Scientist | Power BI Enthusiast
